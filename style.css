@@ -1,0 +1,43 @@
+.heading{
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+}
+.line{
+    background-color: black;
+    height: 6px;
+    width: 150px;
+}
+#apps{
+    height:800px;
+    background-color: darksalmon;
+    text-align: center;
+}
+
+#chatbot{
+    height:800px;
+    background-color:bisque;
+    text-align: center;
+}
+#apps iframe{
+margin-left: 50px;
+    margin-top: 50px;
+}
+
+#chatbot iframe{
+margin-left: 50px;
+    margin-top: 50px;
+}
+
+#mycarousel{
+    background-color: chocolate;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: blue;
+    font-size: 20px;
+}
